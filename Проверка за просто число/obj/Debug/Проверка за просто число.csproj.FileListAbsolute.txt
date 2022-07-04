@@ -1,0 +1,7 @@
+D:\david\Solution1\Проверка за просто число\bin\Debug\Проверка за просто число.exe.config
+D:\david\Solution1\Проверка за просто число\bin\Debug\Проверка за просто число.exe
+D:\david\Solution1\Проверка за просто число\bin\Debug\Проверка за просто число.pdb
+D:\david\Solution1\Проверка за просто число\obj\Debug\Проверка за просто число.csprojAssemblyReference.cache
+D:\david\Solution1\Проверка за просто число\obj\Debug\Проверка за просто число.csproj.CoreCompileInputs.cache
+D:\david\Solution1\Проверка за просто число\obj\Debug\Проверка за просто число.exe
+D:\david\Solution1\Проверка за просто число\obj\Debug\Проверка за просто число.pdb
